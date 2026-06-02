@@ -1,0 +1,11 @@
+curl https://api.github.com/repos/raman-12220414/simple-interest-calculator
+
+{
+  "id": 123456789,
+  "name": "simple-interest-calculator",
+  "full_name": "raman-12220414/simple-interest-calculator",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
